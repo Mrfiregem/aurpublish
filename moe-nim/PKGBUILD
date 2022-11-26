@@ -13,7 +13,7 @@ optdepends=(
   'wl-clipboard: Clipboard support (Wayland)'
   'xsel: Clipboard support (x11)'
   'xclip: Clipboard support (x11)'
-  )
+)
 makedepends=('git' 'nim' 'nimble')
 conflicts=("$_pkgname")
 source=("${pkgname}-${pkgver}.tar.gz::${_gh}/archive/refs/tags/v${pkgver}.tar.gz")
