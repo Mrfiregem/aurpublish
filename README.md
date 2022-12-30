@@ -7,6 +7,7 @@ This repo contains all the packages I maintain in the AUR.
 - [cxbqn](https://aur.archlinux.org/packages/cxbqn): BQN VM written in C++.
 - [dasel-bin](https://aur.archlinux.org/packages/dasel-bin): Query and update data structures from the command line.
 - [moe-nim](https://aur.archlinux.org/packages/moe-nim): A command line based editor inspired by vim. Written in Nim.
+- [shell-piper](https://github.com/Mrfiregem/shell-piper): Write a temporary file and pass it to a program
 - [ttf-bqn387-git](https://aur.archlinux.org/packages/ttf-bqn386-git): An APL and BQN font extending on APL386.
 - [wlopm-git](https://aur.archlinux.org/packages/wlopm-git): Wayland output power management.
 - [wpaperd](https://aur.archlinux.org/packages/wpaperd): Wallpaper daemon for Wayland.
